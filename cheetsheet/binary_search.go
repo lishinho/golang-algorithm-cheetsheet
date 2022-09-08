@@ -1,4 +1,4 @@
-package golang_algorithm_cheetsheet
+package cheetsheet
 
 import "sort"
 
