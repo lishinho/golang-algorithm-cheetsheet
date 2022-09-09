@@ -21,6 +21,7 @@ func binarySearch(nums []int, target int) int {
 	//return sort.Search(len(nums), func(i int) bool {return nums[i] >= target})
 }
 
+// 模板
 func search(n int, f func(i int) bool) int {
 	m := 0
 	for m < n {
